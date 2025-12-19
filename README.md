@@ -232,10 +232,10 @@ pip install -r requirements.txt
 * Create the database
 * Update credentials in `db_connector.py`
 
-### 4️⃣ Run the Server
+### 4️⃣ Run the Streamlit app
 
 ```bash
-python app.py
+streamlit run app1.py
 ```
 
 Server will start locally 🚀
