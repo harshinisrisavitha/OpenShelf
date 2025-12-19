@@ -1,4 +1,4 @@
-# 📚 OpenShelf (DBMS Project)
+# 📚 OpenShelf 
 
 **OpenShelf (DBMS Project)** is a modern **Library Management System** built with a clean API-first approach. It allows seamless management of books, users, and transactions while being scalable, modular, and developer-friendly.
 
@@ -206,6 +206,10 @@ DBMS_PROJECT/
 │
 ├── __pycache__/        # Python cache files
 └── README.md
+```text
+
+````
+
 ---
 
 ## 🚀 Getting Started
